@@ -1,6 +1,6 @@
 # Aritim-Dark-KDE
 
-## A Look-and-Feel theme for KDE, deeply inspired by Arc Dark colors and Ayu Dark 
+## A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light-KDE/master/Screenshots/Calendar.png)
 
@@ -40,12 +40,5 @@ https://store.kde.org/p/1200334~~ (removed, high CPU usage when offline)
 https://store.kde.org/p/998895
 
 ### FIREFOX THEME
-TODO: ADD
 
-#### --> Firefox Screenshot
-
-TODO: ADD
-
-#### --> Visual Studio Code Screenshot (βui - Ayu Theme)
-
-TODO: ADD
+--> https://addons.mozilla.org/en-US/firefox/addon/aritim-light/
