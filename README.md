@@ -2,7 +2,8 @@
 
 ## A Look-and-Feel theme for KDE, deeply inspired by Arc Dark colors and Ayu Dark 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/Screenshots/Calendar.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light-KDE/master/Screenshots/Calendar.png)
+
 
 ### INSTALLATION
 
