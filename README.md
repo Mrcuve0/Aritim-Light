@@ -1,4 +1,4 @@
-# Aritim-Dark-KDE
+# Aritim-Light-KDE
 
 ## A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
 
