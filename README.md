@@ -2,6 +2,9 @@
 
 ## A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
 
+[![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
+[![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Light-KDE.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light-KDE)
+
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light-KDE/master/Screenshots/Calendar.png)
 
 
