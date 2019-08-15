@@ -2,7 +2,7 @@
 cursorTheme=breeze_cursors
 
 [kdeglobals][General]
-ColorScheme=Aritim-Light
+ColorScheme=AritimLight
 
 [kdeglobals][KDE]
 widgetStyle=breeze
@@ -18,4 +18,4 @@ library=org.kde.sierrabreeze
 theme=
 
 [plasmarc][Theme]
-name=Arc-Color
+name=Aritim-Light
