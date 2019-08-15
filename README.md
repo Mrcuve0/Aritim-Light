@@ -23,11 +23,11 @@ The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling
 #### **> CLI way**
 
 1. Download the theme from the [OpenDesktop site](https://www.pling.com/p/1290466/)
-2. Move into your Download folder and Install *Aritim-Dark-KDE* theme using
+2. Move into your Download folder and Install *Aritim-Light-KDE* theme using
 ```bash
-kpackagetool5 -i Aritim-Dark-KDE-master.zip
+kpackagetool5 -i Aritim-Light-KDE-master.zip
 ```
-3. Open `System Settings` --> `Workspace Theme` --> select `Aritim-Dark` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
+3. Open `System Settings` --> `Workspace Theme` --> select `Aritim-Light` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
 4. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 5. [Optional] SierraBreeze Window Decorations: follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
 6. Profit
