@@ -12,45 +12,12 @@ var layout = {
                     "lastScreen": "0",
                     "wallpaperplugin": "org.kde.image"
                 },
-                "/ConfigDialog": {
-                    "DialogHeight": "800",
-                    "DialogWidth": "1420"
-                },
                 "/Configuration": {
                     "PreloadWeight": "0"
                 },
-                "/General": {
-                    "arrangement": "1",
-                    "iconSize": "3",
-                    "positions": "20,10,desktop:/Home.desktop,0,1,desktop:/Your Stuff Here,1,1,desktop:/trash:⁄.desktop,19,9",
-                    "pressToMoveHelp": "false",
-                    "previews": "false",
-                    "showToolbox": "false",
-                    "sortMode": "-1"
-                },
-                "/Wallpaper/org.kde.image/General": {
-                    "Blur": "true",
-                    "Image": "file:///home/sem/Pictures/Wallpapers/Unsplash/pawel-czerwinski-kOfVxiO1LOk-unsplash.jpg"
-                }
             },
             "wallpaperPlugin": "org.kde.image"
         },
-        {
-            "applets": [
-            ],
-            "config": {
-                "/": {
-                    "formfactor": "0",
-                    "immutability": "1",
-                    "lastScreen": "1",
-                    "wallpaperplugin": "org.kde.image"
-                },
-                "/Configuration": {
-                    "PreloadWeight": "0"
-                }
-            },
-            "wallpaperPlugin": "org.kde.image"
-        }
     ],
     "panels": [
         {
