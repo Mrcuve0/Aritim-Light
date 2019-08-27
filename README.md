@@ -50,11 +50,9 @@ OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVUL
 
 * Color Scheme [Aritim-Light](https://www.opendesktop.org/p/1290460)
 
-* [Aritim-Light Wallpaper-V1](https://www.pling.com/p/1291140)
-* [Aritim-Light Wallpaper-V2](https://www.pling.com/p/1297586/)
-* [Aritim-Light Wallpaper-V3](https://www.pling.com/p/1306097/)
-* [Aritim-Light Wallpaper-V4](https://www.pling.com/p/1309077/)
-* [Aritim-Light Wallpaper-V5](https://www.pling.com/p/1318333/)
+* [Aritim-Light Wallpapers](https://www.pling.com/c/1318990)
+
+* [Aritim-Light Aurorae Theme](https://www.pling.com/p/1321086/)
 
 * Plasmoid [Application Title](https://store.kde.org/p/1199712)
 
