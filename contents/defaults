@@ -15,7 +15,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Aritim-Dark
+theme=__aurorae__svg__Aritim-Light
 
 [plasmarc][Theme]
 name=Aritim-Light
