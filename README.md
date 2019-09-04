@@ -6,8 +6,8 @@
 [![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light-KDE/master/Screenshots/Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light-KDE/master/Screenshots/Busy.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/Screenshots/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/Screenshots/Busy.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1290466/).**
 
