@@ -1,39 +1,55 @@
-# Aritim-Light-KDE
+# Aritim-Light Theme
 
 ## Aritim-Light: A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Light-KDE.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light-KDE)
+[![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light)
+
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light-KDE/master/Screenshots/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light-KDE/master/Screenshots/Busy.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1290466/).**
 
-### **INSTALLATION**
-#### **> Recommended way**
+### **REPO ORGANIZATION**
 
-Download the theme directly from the theme manager included in all the KDE-based distros:
+You can find everything you need in this repository, which is organized in subfolders.
+You'll find in each subfolder a `README.md` containing all the infos regarding:
 
-* Open `System Settings` --> `Workspace Theme` --> `Get New Look-And-Feel Themes`
+1. **Introduction**
+2. **How to install**
+3. **Dependencies (if any)**
+4. **License**
+5. **Donations**
+6. **(other)**
 
-The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/1290466/) or directly from the theme manager included in all the KDE-based distros:
+Please, refer to the badges "`development`" you can find at the top of each README, here's some additional infos:
 
-* Open `System Settings` --> `Colors` --> `Get New Color Schemes`.
+1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
+> This means I'm currently enhancing/fixing the project. I'm open to suggestions and Pull Requests, that will be treated as soon as possible.
+2. [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
+> This means I'm currently not considering the project as a top priority, hence issues and Pull Request will be still treated, but with higher delays. The development status can reach a higher priority ("Ongoing") or a lower one "Stopped" at any time.
+3. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
+> This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present itselves and really worth the effort. Issues and PR will be probably read but not considered.
 
-#### **> CLI way**
+*As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven. As for now, *my number one priority* is finishing my **Master's Degree in Embedded Systems**: don't panic if I cannot reply to your issue even after a week, I'm probably really busy and I'm making already restless nights.
 
-1. Download the theme from the [OpenDesktop site](https://www.pling.com/p/1290466/)
-2. Move into your Download folder and Install *Aritim-Light-KDE* theme using
-```bash
-kpackagetool5 -i Aritim-Light-KDE-master.zip
-```
-3. Open `System Settings` --> `Workspace Theme` --> select `Aritim-Light` and check `Use Desktop Layout from theme` if you want to apply the same layout as showed in the screenshots (panels etc ...)
-4. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
-5. [Optional] SierraBreeze Window Decorations: follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
-6. Profit
+### **FIREFOX THEME**
+* [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-light/)
 
 ### **DONATIONS**
-If you liked the theme, you can consider buying me a coffee with the following methods:
+
+> I hope that this theme is to your liking and I hope that, as it was in my case, this can become your everyday theme.
+>
+> I am sure you will appreciate all the work behind this repo and the many hours of my free time that I have dedicated (and will continue to devote) to this project.
+> 
+> If you want, you can consider a small donation to support future developments for this and many new projects that will come in the future.
+>
+> Thank you for your time.
+> 
+>Mrcuve0
+
+Below you'll find infos on how you can do it:
 
 1. Donate via PayPal [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
@@ -43,29 +59,14 @@ If you liked the theme, you can consider buying me a coffee with the following m
 ```
 OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVULADJWOUUYBX
 ```
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/QRCode.jpg)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/QRCode.jpg)
 
+### **LICENSES**
+For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
+I always try to be as correct and thankful as possible: if you see some inconsistencies on licenses please be free to open an issue/PR for this repo and explain the problem. I will reply ASAP and fix the issue. The last thing I want to do is to harm someone else's IP. 
 
-#### **This Look-and-Feel theme will also install (as dependencies):**
+Of course, I'm expecting the same treatment in case you'll decide to publish modifications of my projects.
 
-* Color Scheme [Aritim-Light](https://www.opendesktop.org/p/1290460)
+Finally, like *Daft Punk* said:
 
-* [Aritim-Light Wallpapers](https://www.pling.com/c/1318990)
-
-* [Aritim-Light Aurorae Theme](https://www.pling.com/p/1321086/)
-
-* Plasmoid [Application Title](https://store.kde.org/p/1199712)
-
-~~* Plasmoid [Crypto Currencies Price](https://store.kde.org/p/1200334)~~
- (removed, high CPU usage when offline)
-
-* Plasmoid [NetSpeed Widget](https://store.kde.org/p/998895)
-
-* Plasmoid [Event Calendar](https://www.pling.com/p/998901/)
-
-### **FIREFOX THEME**
-
---> https://addons.mozilla.org/en-US/firefox/addon/aritim-light/
-
-### **LICENSE**
-This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Light-KDE/blob/master/LICENSE).
+> We Are Human After All
