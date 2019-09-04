@@ -5,7 +5,8 @@
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 [![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Light-KDE.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light-KDE)
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light-KDE/master/Screenshots/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Busy.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1290466/).**
 
@@ -33,7 +34,18 @@ kpackagetool5 -i Aritim-Light-KDE-master.zip
 6. Profit
 
 ### **DONATIONS**
-If you liked the theme, you can consider buying me a coffee with the following methods:
+
+> I hope that this theme is to your liking and I hope that, as it was in my case, this can become your everyday theme.
+>
+> I am sure you will appreciate all the work behind this repo and the many hours of my free time that I have dedicated (and will continue to devote) to this project.
+> 
+> If you want, you can consider a small donation to support future developments for this and many new projects that will come in the future.
+>
+> Thank you for your time.
+> 
+>Mrcuve0
+
+Below you'll find infos on how you can do it:
 
 1. Donate via PayPal [![alt text](https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/mrcuve0)
 
@@ -43,7 +55,7 @@ If you liked the theme, you can consider buying me a coffee with the following m
 ```
 OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVULADJWOUUYBX
 ```
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Dark-KDE/master/QRCode.jpg)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/QRCode.jpg)
 
 
 #### **This Look-and-Feel theme will also install (as dependencies):**
@@ -68,4 +80,4 @@ OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVUL
 --> https://addons.mozilla.org/en-US/firefox/addon/aritim-light/
 
 ### **LICENSE**
-This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Light-KDE/blob/master/LICENSE).
+This KDE look-and-feel theme, as well as the related color scheme, is licensed under the [GLPv3 license](https://github.com/Mrcuve0/Aritim-Light/blob/master/KDE/lookAndFeel/LICENSE).

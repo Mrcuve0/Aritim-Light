@@ -1,10 +1,8 @@
 # Aritim-Light Theme
 
-## Aritim-Light: A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
+## Aritim-Light: A theme for KDE, pleasant to the eyes and perfect for your daily workload
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light)
-
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Desktop.png)
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Busy.png)
@@ -12,19 +10,9 @@
 **You can find other screenshots [here](https://www.pling.com/p/1290460/).**
 
 ### **INSTALLATION**
-#### **> Recommended way**
-
-Download the theme directly from the theme manager included in all the KDE-based distros:
-
-* Open `System Settings` --> `Workspace Theme` --> `Get New Plasma Themes`
-
 The color-scheme can be downloaded from the [OpenDesktop site](https://www.pling.com/p/1290460/) or directly from the theme manager included in all the KDE-based distros:
 
 * Open `System Settings` --> `Colors` --> `Get New Color Schemes`.
-
-### **WALLPAPERS**
-* [Aritim-Light Wallpapers](https://www.pling.com/c/1318990/)
-
 
 ### **DONATIONS**
 
@@ -50,13 +38,5 @@ OSYUR9NE9SV9LYGFWOAWAPXSQCXEITZXRKHSVSXIKYXUUSGIMIJZMSKCXZBVZRYUVMVS9KYNENVZVVUL
 ```
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/QRCode.jpg)
 
-
-### **FIREFOX THEME**
-
---> https://addons.mozilla.org/en-US/firefox/addon/aritim-light/
-
-### **LICENSE**
-Released under the [GPLv2](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/plasmaTheme/LICENSE).
-
-Derived from the great [KDE Breeze Plasma Theme](https://github.com/KDE/breeze).
-You can find the license of the original product in the repo at the previous link.
+### **LICENSES**
+This color-scheme is my proper creation and it is licensed under the [GPLv3 license](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/colorScheme/LICENSE)
