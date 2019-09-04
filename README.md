@@ -1,6 +1,6 @@
 # Aritim-Light Theme
 
-## Aritim-Light: A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
+## Aritim-Light: A Light theme for KDE, pleasant to the eyes and perfect for your daily workload
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 [![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light)
