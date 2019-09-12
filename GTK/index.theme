@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Aritim-Light
+Comment=A Light theme for both KDE ad GTK based distros, pleasant to the eyes and perfect for your daily workload
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Aritim-Light
+MetacityTheme=Aritim-Light
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
