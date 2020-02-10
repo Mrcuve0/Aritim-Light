@@ -302,16 +302,16 @@ var layout = {
                             "DialogWidth": "720"
                         },
                         "/Configuration/Configuration/Configuration/Configuration/General": {
-                            "launchers": "applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop,applications:telegramdesktop.desktop,applications:clementine.desktop,applications:spotify.desktop,applications:visual-studio-code.desktop,applications:virtualbox.desktop,applications:qbittorrent.desktop,applications:octopi.desktop,applications:org.kde.ksysguard.desktop,applications:systemsettings.desktop"
+                            "launchers": ""
                         },
                         "/Configuration/Configuration/Configuration/General": {
-                            "launchers": "applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop,applications:telegramdesktop.desktop,applications:clementine.desktop,applications:spotify.desktop,applications:visual-studio-code.desktop,applications:virt-manager.desktop,applications:qbittorrent.desktop,applications:octopi.desktop,applications:org.kde.ksysguard.desktop,applications:systemsettings.desktop"
+                            "launchers": ""
                         },
                         "/Configuration/Configuration/General": {
-                            "launchers": "applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop,applications:firefox.desktop,applications:telegramdesktop.desktop,applications:clementine.desktop,applications:spotify.desktop,applications:visual-studio-code.desktop,applications:virtualbox.desktop,applications:qbittorrent.desktop,applications:octopi.desktop,applications:org.kde.ksysguard.desktop,applications:systemsettings.desktop"
+                            "launchers": ""
                         },
                         "/Configuration/General": {
-                            "launchers": "applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop,applications:telegramdesktop.desktop,applications:firefox.desktop,applications:clementine.desktop,applications:spotify.desktop,applications:visual-studio-code.desktop,applications:virtualbox.desktop,applications:octopi.desktop,applications:org.kde.ksysguard.desktop,applications:systemsettings.desktop"
+                            "launchers": ""
                         }
                     },
                     "plugin": "org.kde.plasma.icontasks"
@@ -506,7 +506,7 @@ var layout = {
                             "events_pollinterval": "60"
                         },
                         "/Configuration/Weather": {
-                            "weather_city_id": "3165524"
+                            "weather_city_id": ""
                         }
                     },
                     "plugin": "org.kde.plasma.eventcalendar"
@@ -615,6 +615,6 @@ var layout = {
     ],
     "serializationFormatVersion": "1"
 }
-;
+    ;
 
 plasma.loadSerializedLayout(layout);
