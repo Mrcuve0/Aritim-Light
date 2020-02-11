@@ -5,6 +5,9 @@
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 [![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
+
+
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Desktop.png)
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Busy.png)
 
