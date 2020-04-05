@@ -145,7 +145,7 @@ var layout = {
                             "global": "Alt+F1"
                         },
                         "/Configuration/General": {
-                            "customButtonImage": "manjaro-settings-manager-panel",
+                            "customButtonImage": "start-here-kde",
                             "favoriteSystemActions": "save-session",
                             "favoritesPortedToKAstats": "true",
                             "hiddenApplications": "",
