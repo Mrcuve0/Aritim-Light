@@ -3,7 +3,7 @@
 ## Aritim-Light: A Light theme for KDE, pleasant to the eyes and perfect for your daily workload
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light)
+[![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Light.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Light)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
