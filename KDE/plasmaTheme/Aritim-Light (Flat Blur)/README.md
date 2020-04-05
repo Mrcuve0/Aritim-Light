@@ -3,11 +3,11 @@
 ## Aritim-Light: A Look-and-Feel theme for KDE, pleasant to the eyes and perfect for your daily workload
 
 [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
-[![HitCount](http://hits.dwyl.io/Mrcuve0/.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light)
+[![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Light.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Light)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Desktop.png)
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Busy.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1290460/).**
 

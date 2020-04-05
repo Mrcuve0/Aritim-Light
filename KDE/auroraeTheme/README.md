@@ -7,9 +7,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/screenshots/Desktop.png)
-
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/screenshots/Busy.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
 
 **You can find other screenshots [here](https://www.pling.com/p/1290466/).**
 
