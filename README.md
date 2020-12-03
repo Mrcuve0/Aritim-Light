@@ -36,8 +36,25 @@ Please, refer to the badges "`development`" you can find at the top of each READ
 
 *As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven. As for now, *my number one priority* is finishing my **Master's Degree in Embedded Systems**: don't panic if I cannot reply to your issue even after a week, I'm probably really busy and I'm making already restless nights.
 
-### **FIREFOX THEME**
-* [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/aritim-light/)
+
+----
+
+### **AUR Packages**
+
+* [Aritim-Light for **KDE**](https://aur.archlinux.org/packages/aritim-light-kde/) ([bridnour](https://github.com/bridnour))
+* [Aritim-Light for **GTK**](https://aur.archlinux.org/packages/aritim-light-gtk/) ([bridnour](https://github.com/bridnour))
+
+A big **thank you** goes to all the contributors, you are awesome!
+
+----
+
+### **EXTRAS / COMMUNITY THEMES**
+
+* [Aritim-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-light/) (By me)
+
+A big **thank you** goes to all the contributors, you are awesome!
+
+----
 
 ### **DONATIONS**
 

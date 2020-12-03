@@ -11,7 +11,7 @@
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/GTK/screenshots/Desktop.png)
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/GTK/screenshots/Desktop2.png)
 
-### INSTALLATION
+### **INSTALLATION**
 
 1. Download code (*Clone or Download* button).
 2. Move your `Aritim-Light-GTK` folder into the `.themes` folder in your home directory.
@@ -19,7 +19,7 @@
 4. [Optional] Papirus Icon theme installation: follow the guide lines from the repo: --> https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 5. Profit
 
-### TERMINAL INSTALLATION
+### **TERMINAL INSTALLATION**
 
 ```sh
 cd /tmp && rm -rf Aritim-Light-GTK &&
@@ -27,6 +27,22 @@ git clone https://github.com/Mrcuve0/Aritim-Light-GTK &&
 mkdir -p ~/.themes && cp -r aritim-Light-gtk/Aritim-Light-GTK* ~/.themes/ &&
 gsettings set org.gnome.desktop.interface gtk-theme "Aritim-Light-GTK"
 ```
+
+### **AUR Packages**
+
+* [Aritim-Light for **GTK**](https://aur.archlinux.org/packages/aritim-light-gtk/) ([bridnour](https://github.com/bridnour))
+
+A big **thank you** goes to all the contributors, you are awesome!
+
+----
+
+### **EXTRAS / COMMUNITY THEMES**
+
+* [Aritim-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-light/) (By me)
+
+A big **thank you** goes to all the contributors, you are awesome!
+
+----
 
 ### **DONATIONS**
 
