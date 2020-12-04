@@ -36,9 +36,12 @@ kpackagetool5 -i Aritim-Light-KDE-master.zip
 5. [Optional] SierraBreeze Window Decorations: follow the guide lines from the repo: --> https://github.com/ishovkun/SierraBreeze
 6. Profit
 
+----
+
 ### **AUR Packages**
 
 * [Aritim-Light for **KDE**](https://aur.archlinux.org/packages/aritim-light-kde/) ([bridnour](https://github.com/bridnour))
+* [Aritim-Light for **GTK**](https://aur.archlinux.org/packages/aritim-light-gtk/) ([bridnour](https://github.com/bridnour))
 
 A big **thank you** goes to all the contributors, you are awesome!
 

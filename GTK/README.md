@@ -28,8 +28,11 @@ mkdir -p ~/.themes && cp -r aritim-Light-gtk/Aritim-Light-GTK* ~/.themes/ &&
 gsettings set org.gnome.desktop.interface gtk-theme "Aritim-Light-GTK"
 ```
 
+----
+
 ### **AUR Packages**
 
+* [Aritim-Light for **KDE**](https://aur.archlinux.org/packages/aritim-light-kde/) ([bridnour](https://github.com/bridnour))
 * [Aritim-Light for **GTK**](https://aur.archlinux.org/packages/aritim-light-gtk/) ([bridnour](https://github.com/bridnour))
 
 A big **thank you** goes to all the contributors, you are awesome!
