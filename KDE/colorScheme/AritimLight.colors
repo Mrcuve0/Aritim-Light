@@ -1,10 +1,10 @@
 [ColorEffects:Disabled]
 Color=56,56,56
-ColorAmount=0
-ColorEffect=0
-ContrastAmount=0.75
+ColorAmount=0.2
+ColorEffect=1
+ContrastAmount=0.7000000000000001
 ContrastEffect=1
-IntensityAmount=0.05
+IntensityAmount=0.1
 IntensityEffect=2
 
 [ColorEffects:Inactive]
@@ -21,24 +21,24 @@ IntensityEffect=0
 [Colors:Button]
 BackgroundAlternate=189,195,199
 BackgroundNormal=243,243,243
-DecorationFocus=74,97,122
-DecorationHover=164,176,188
+DecorationFocus=82,111,149
+DecorationHover=114,154,207
 ForegroundActive=61,174,233
 ForegroundInactive=163,165,172
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=92,97,108
+ForegroundNormal=40,42,47
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:Selection]
 BackgroundAlternate=29,153,243
-BackgroundNormal=74,97,122
-DecorationFocus=74,97,122
-DecorationHover=164,176,188
+BackgroundNormal=82,111,149
+DecorationFocus=82,111,149
+DecorationHover=114,154,207
 ForegroundActive=252,252,252
-ForegroundInactive=239,240,241
+ForegroundInactive=163,165,172
 ForegroundLink=253,188,75
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -48,9 +48,9 @@ ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
 BackgroundAlternate=77,77,77
-BackgroundNormal=92,97,108
-DecorationFocus=74,97,122
-DecorationHover=164,176,188
+BackgroundNormal=69,94,126
+DecorationFocus=82,111,149
+DecorationHover=114,154,207
 ForegroundActive=61,174,233
 ForegroundInactive=163,165,172
 ForegroundLink=41,128,185
@@ -63,28 +63,28 @@ ForegroundVisited=127,140,141
 [Colors:View]
 BackgroundAlternate=239,240,241
 BackgroundNormal=255,255,255
-DecorationFocus=74,97,122
-DecorationHover=164,176,188
+DecorationFocus=82,111,149
+DecorationHover=114,154,207
 ForegroundActive=61,174,233
 ForegroundInactive=163,165,172
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=92,97,108
+ForegroundNormal=40,42,47
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:Window]
 BackgroundAlternate=189,195,199
 BackgroundNormal=238,242,245
-DecorationFocus=74,97,122
-DecorationHover=164,176,188
+DecorationFocus=82,111,149
+DecorationHover=114,154,207
 ForegroundActive=61,174,233
 ForegroundInactive=163,165,172
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=73,76,85
+ForegroundNormal=40,42,47
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
@@ -94,12 +94,11 @@ Name=Aritim-Light
 shadeSortColumn=true
 
 [KDE]
-contrast=4
+contrast=10
 
 [WM]
-activeBackground=231,232,235
-activeBlend=231,232,235
-activeForeground=92,97,108
-inactiveBackground=231,232,235
-inactiveBlend=231,232,235
-inactiveForeground=163,165,172
+activeBackground=240,240,240,216
+activeForeground=48,48,48
+inactiveBackground=240,240,240,216
+inactiveBlend=255,255,255
+inactiveForeground=96,96,96
