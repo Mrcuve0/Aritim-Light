@@ -7,6 +7,9 @@ ColorScheme=AritimLight
 [kdeglobals][KDE]
 widgetStyle=breeze
 
+[konsolerc][Desktop Entry]
+DefaultProfile=Aritim-Light.profile
+
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
