@@ -25,16 +25,16 @@ You'll find in each subfolder a `README.md` containing all the infos regarding:
 5. **Donations**
 6. **(other)**
 
-Please, refer to the badges "`development`" you can find at the top of each README, here's some additional infos:
+Please, refer to the badges "`development`" you can find in each README, here's some additional infos:
 
 1. [![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
 > This means I'm currently enhancing/fixing the project. I'm open to suggestions and Pull Requests, that will be treated as soon as possible.
 2. [![DevelopmentStatus](https://img.shields.io/badge/Development-Paused-yellow.svg)](https://img.shields.io/badge/Development-Paused-yellow.svg)
 > This means I'm currently not considering the project as a top priority, hence issues and Pull Request will be still treated, but with higher delays. The development status can reach a higher priority ("Ongoing") or a lower one "Stopped" at any time.
 3. [![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
-> This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present itselves and really worth the effort. Issues and PR will be probably read but not considered.
+> This means I'd prefer to consider this project abandoned. I could reconsider this development status only if some really big opportunities present themselves and really worth the effort. Issues and PR will be probably read but not considered.
 
-*As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven. As for now, *my number one priority* is finishing my **Master's Degree in Embedded Systems**: don't panic if I cannot reply to your issue even after a week, I'm probably really busy and I'm making already restless nights.
+*As a general rule*, take in mind that my entire [GitHub profile](https://github.com/Mrcuve0) (themes included!) is based on my sparse time and it is mainly passion-driven. 
 
 
 ----
@@ -50,7 +50,7 @@ A big **thank you** goes to all the contributors, you are awesome!
 
 ### **EXTRAS / COMMUNITY THEMES**
 
-* [Aritim-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-light/) (By me)
+* [Aritim-Light for **Firefox**](https://addons.mozilla.org/en-US/firefox/addon/aritim-light/)  (me)
 
 A big **thank you** goes to all the contributors, you are awesome!
 
@@ -82,9 +82,9 @@ bc1qfr86cgxt74qv0pzeayezx0j03myn69grqw5upg
 
 4. I also accept feeless and miner-free cryptocurrencies, here's my **IOTA address**:
 ```
-RAUPWGBKLUJLBLSTAFBLGABDQX9HDZOZRTEODEASFKRPNLNJTYRZLOLAEPENWIYINTLNQHULSBOIWAQZZROWQEERYD
+iota1qrp0r6f69mewngr8x5xsx88d4xzk33mkq6sfwdv5ul2y0wptw5r0ck0r7r4
 ```
-![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.jpg)
+![IOTA Wallet](https://raw.githubusercontent.com/Mrcuve0/donations/master/IOTAwallet.png)
 ### **LICENSES**
 For every subfolder you'll find a specific license: many of my projects rely on other's people previous work, each of them with their proper license.
 I always try to be as correct and thankful as possible: if you see some inconsistencies on licenses please be free to open an issue/PR for this repo and explain the problem. I will reply ASAP and fix the issue. The last thing I want to do is to harm someone else's IP. 
