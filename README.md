@@ -32,7 +32,7 @@
 
 ![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/01-Desktop.png)
 
-**You can find other screenshots [here](https://www.pling.com/p/1290466/).**
+**You can find other screenshots [here](https://www.pling.com/p/1281836/).**
 
 ----
 
