@@ -10,7 +10,7 @@
 ## **Installation**
 
 ### **1) 🛑 Install Lightly Theme Style**
-* To match the above screenshots, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Lightly repository](https://github.com/Luwx/Lightly).
+* To match the screenshots below, you must **INSTALL** *Lightly*, which will provide your Plasma desktop the correct Window Decorations and Application Style. To do that, simply follow the installation instructions [on the official Lightly repository](https://github.com/Luwx/Lightly).
 
 * Once Lightly installed, remember to go to:
 `System Settings` --> `Appearance` --> `Application Style` and `Window Decorations` in order to apply it to your system.
@@ -28,11 +28,11 @@
 * I tend to leave the theme as generic as possible to please everyone's likings (and believe me it's not easy 😆), so some visual adjustments may be needed just after installation.
 * Move panels here and there, change wallpapers as you like, the imagination is the only limit!
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Desktop.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/00-Desktop.png)
 
-![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/Ver%3E0.7/Busy.png)
+![alt text](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/01-Desktop.png)
 
-**You can find other screenshots [here](https://www.pling.com/p/1281836/).**
+**You can find other screenshots [here](https://raw.githubusercontent.com/Mrcuve0/Aritim-Light/master/KDE/screenshots/).**
 
 ----
 
