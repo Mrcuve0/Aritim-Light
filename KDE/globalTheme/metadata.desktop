@@ -1,0 +1,25 @@
+[Desktop Entry]
+Comment=The only light theme I want
+Name=Aritim-Light
+
+X-KDE-PluginInfo-Author=Mrcuve0
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=mrcuve0+themes@posteo.net
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+
+X-KDE-PluginInfo-Name=Aritim-Light
+X-KDE-PluginInfo-Version=0.7
+X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+X-KPackage-Dependencies=kns://wallpaper.knsrc/api.kde-look.org/1291140,kns://wallpaper.knsrc/api.kde-look.org/1297586,kns://wallpaper.knsrc/api.kde-look.org/1306097,kns://wallpaper.knsrc/api.kde-look.org/1372613,kns://wallpaper.knsrc/api.kde-look.org/1490571,kns://colorschemes.knsrc/api.kde-look.org/1290460,kns://plasma-themes.knsrc/api.kde-look.org/1318993,kns://aurorae.knsrc/api.kde-look.org/1321086
+
+# kns://plasmoids.knsrc/api.kde-look.org/998901,kns://plasmoids.knsrc/api.kde-look.org/1199712,kns://plasmoids.knsrc/api.kde-look.org/1274218
+
+### Plasmoids URL Codes List
+# Window Title Applet   --> 1274218
+# Window AppMenu        --> 1274975     (Can only be installed manually, see corresponding GitHub page)
+# Netspeed Widget       --> 998895
+# Event Calendar        --> 998901
+# Advanced Radio Player --> 1313987
