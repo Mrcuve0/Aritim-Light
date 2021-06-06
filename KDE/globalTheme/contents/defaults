@@ -21,4 +21,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Aritim-Light
 
 [plasmarc][Theme]
-name=Aritim-Light-Flat-Blur
+name=Aritim-Light-Rounded-Blur

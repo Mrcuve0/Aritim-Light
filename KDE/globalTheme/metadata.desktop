@@ -1,3 +1,4 @@
+
 [Desktop Entry]
 Comment=The only light theme I want
 Name=Aritim-Light
@@ -9,7 +10,7 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
 
 X-KDE-PluginInfo-Name=Aritim-Light
-X-KDE-PluginInfo-Version=0.7
+X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 
