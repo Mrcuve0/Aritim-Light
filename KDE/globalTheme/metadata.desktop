@@ -14,7 +14,7 @@ X-KDE-PluginInfo-Version=1.1
 X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 
-X-KPackage-Dependencies=kns://wallpaper.knsrc/api.kde-look.org/1291140,kns://wallpaper.knsrc/api.kde-look.org/1297586,kns://wallpaper.knsrc/api.kde-look.org/1306097,kns://wallpaper.knsrc/api.kde-look.org/1372613,kns://wallpaper.knsrc/api.kde-look.org/1490571,kns://colorschemes.knsrc/api.kde-look.org/1290460,kns://plasma-themes.knsrc/api.kde-look.org/1318993,kns://plasma-themes.knsrc/api.kde-look.org/1647360,kns://aurorae.knsrc/api.kde-look.org/1321086
+X-KPackage-Dependencies=kns://wallpaper.knsrc/api.kde-look.org/1291140,kns://wallpaper.knsrc/api.kde-look.org/1297586,kns://wallpaper.knsrc/api.kde-look.org/1306097,kns://wallpaper.knsrc/api.kde-look.org/1372613,kns://wallpaper.knsrc/api.kde-look.org/1490571,kns://colorschemes.knsrc/api.kde-look.org/1290460,kns://plasma-themes.knsrc/api.kde-look.org/1318993,kns://plasma-themes.knsrc/api.kde-look.org/1647360,kns://aurorae.knsrc/api.kde-look.org/1321086,kns://icons.knsrc/api.kde-look.org/1166289
 
 # kns://plasmoids.knsrc/api.kde-look.org/998901,kns://plasmoids.knsrc/api.kde-look.org/1199712,kns://plasmoids.knsrc/api.kde-look.org/1274218
 
