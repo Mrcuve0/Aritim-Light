@@ -54,8 +54,8 @@
 
 ### **2) 📦 AUR Packages**
 
-* [Aritim-Light for **KDE**](https://aur.archlinux.org/packages/aritim-light-kde/) ([bridnour](https://github.com/bridnour))
-* [Aritim-Light for **GTK**](https://aur.archlinux.org/packages/aritim-light-gtk/) ([bridnour](https://github.com/bridnour))
+* [Aritim-Light for **KDE**](https://aur.archlinux.org/packages/aritim-light-kde-git/) ([D3SOX](https://github.com/D3SOX))
+* [Aritim-Light for **GTK**](https://aur.archlinux.org/packages/aritim-light-gtk-git/) ([D3SOX](https://github.com/D3SOX))
 
 A big **thank you** goes to all the contributors, you are awesome!
 
