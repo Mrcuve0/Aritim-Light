@@ -12,7 +12,7 @@ X-KDE-PluginInfo-License=GPLv2
 X-KDE-PluginInfo-Name=Aritim-Light-Flat-Blur
 
 # If you do changes to SVG files in your theme, make sure to update the version number X-KDE-PluginInfo-Version so Plasma can properly refresh its cache.
-X-KDE-PluginInfo-Version=0.9
+X-KDE-PluginInfo-Version=0.6.3
 X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
 X-Plasma-API=5.0
 
@@ -20,16 +20,13 @@ X-Plasma-API=5.0
 # [Settings]
 # FallbackTheme=oxygen
 
-# Adding some contrast to what is behind windows, panels or tooltips (disabled by default)
+# Adding some contrast to what is behind windows, panels or toolt ips (disabled by default)
 [ContrastEffect]
-enabled=false
 contrast=0
+enabled=false
 intensity=1.8
 saturation=0
 
 # Blurring what is behind windows, panels or tool tips. This is enabled by default.
 [BlurBehindEffect]
-enabled=true
-
-[AdaptiveTransparency]
 enabled=true

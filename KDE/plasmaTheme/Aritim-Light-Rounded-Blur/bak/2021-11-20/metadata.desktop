@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Aritim-Light-Flat-Blur
+Name=Aritim-Light-Rounded-Blur
 Comment=The only Light theme I want
 
 X-KDE-PluginInfo-Author=Mrcuve0
@@ -9,10 +9,10 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv2
 
 # The X-KDE-PluginInfo-Name entry should match the name of the sub-folder in share/plasma/desktoptheme where the SVG files for this theme exist. 
-X-KDE-PluginInfo-Name=Aritim-Light-Flat-Blur
+X-KDE-PluginInfo-Name=Aritim-Light-Rounded-Blur
 
 # If you do changes to SVG files in your theme, make sure to update the version number X-KDE-PluginInfo-Version so Plasma can properly refresh its cache.
-X-KDE-PluginInfo-Version=0.9
+X-KDE-PluginInfo-Version=0.6.3
 X-KDE-PluginInfo-Website=https://github.com/Mrcuve0
 X-Plasma-API=5.0
 
@@ -22,8 +22,8 @@ X-Plasma-API=5.0
 
 # Adding some contrast to what is behind windows, panels or tooltips (disabled by default)
 [ContrastEffect]
-enabled=false
 contrast=0
+enabled=false
 intensity=1.8
 saturation=0
 
