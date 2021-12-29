@@ -6,7 +6,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="tooltip.svg"
+   sodipodi:docname="background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -19,13 +19,25 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient2957">
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0"
+         id="stop2953" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.15000001"
+         offset="1"
+         id="stop2955" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient938">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop932" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.2"
+         style="stop-color:#000000;stop-opacity:0.15000001"
          offset="0.66666657"
          id="stop934" />
       <stop
@@ -41,7 +53,7 @@
          offset="0"
          id="stop1086" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.2"
+         style="stop-color:#000000;stop-opacity:0.15000001"
          offset="0.66666681"
          id="stop1088" />
       <stop
@@ -57,7 +69,7 @@
          offset="0"
          id="stop1066" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.2"
+         style="stop-color:#000000;stop-opacity:0.15000001"
          offset="0.6666677"
          id="stop1074" />
       <stop
@@ -73,7 +85,7 @@
          offset="0"
          id="stop1181" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.2"
+         style="stop-color:#000000;stop-opacity:0.15000001"
          offset="1"
          id="stop1183" />
     </linearGradient>
@@ -85,7 +97,7 @@
          offset="0"
          id="stop1173" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.2"
+         style="stop-color:#000000;stop-opacity:0.15000001"
          offset="0.66666621"
          id="stop1175" />
       <stop
@@ -101,7 +113,7 @@
          offset="0"
          id="stop1167" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.2"
+         style="stop-color:#000000;stop-opacity:0.15000001"
          offset="1"
          id="stop1169" />
     </linearGradient>
@@ -113,7 +125,7 @@
          offset="0"
          id="stop1147" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.2"
+         style="stop-color:#000000;stop-opacity:0.15000001"
          offset="1"
          id="stop1149" />
     </linearGradient>
@@ -138,7 +150,7 @@
        r="8" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#gradient-right"
+       xlink:href="#linearGradient2957"
        id="linearGradient1153"
        x1="143.99995"
        y1="136.99998"
@@ -218,8 +230,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="27.179416"
-     inkscape:cy="30.317202"
+     inkscape:cx="75.439451"
+     inkscape:cy="38.183764"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -304,78 +316,84 @@
        d="m 190.99995,144.99999 h -6 v -15 h 6 z"
        id="shadow-right" />
     <rect
-       style="fill:#eef2f5;fill-opacity:0.69999999;fill-rule:nonzero;stroke-width:0.333333"
+       style="fill:#00ffff;fill-opacity:0.64999998;fill-rule:nonzero;stroke-width:0.333333"
        id="center"
-       width="15.000009"
-       height="15.000037"
+       width="15.000000"
+       height="15.0000"
        x="114.99995"
        y="129.99995"
-       inkscape:label="#center" />
+       inkscape:label="#center"
+       class="ColorScheme-Background" />
     <g
        id="topright"
        inkscape:label="#topright"
        transform="matrix(2,0,0,2,-160.00002,-130.00002)"
-       style="opacity:1;fill:#eef2f5;fill-opacity:0.69999999">
+       style="opacity:1;fill:#00ffff;fill-opacity:0.64999998">
       <path
-         style="opacity:1;fill:#eef2f5;fill-opacity:0.69999999;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#00ffff;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 145,130 h 5 c 0,-3 -2,-5 -5,-5 z"
          id="path863-6-7"
-         sodipodi:nodetypes="cccc" />
+         sodipodi:nodetypes="cccc"
+         class="ColorScheme-Background" />
     </g>
     <g
        id="topleft"
        inkscape:label="#topleft"
        transform="matrix(2,0,0,2,-145.00003,-130.00002)"
-       style="opacity:1;fill:#eef2f5;fill-opacity:0.69999999">
+       style="opacity:1;fill:#00ffff;fill-opacity:0.64999998">
       <path
-         style="opacity:1;fill:#eef2f5;fill-opacity:0.69999999;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#00ffff;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 130,130 v -5 c -3,0 -5,2 -5,5 z"
          id="path863"
-         sodipodi:nodetypes="cccc" />
+         sodipodi:nodetypes="cccc"
+         class="ColorScheme-Background" />
     </g>
     <g
        id="bottomleft"
        inkscape:label="#bottomleft"
        transform="matrix(2,0,0,2,-145.00002,-145.00002)"
-       style="fill:#eef2f5;fill-opacity:0.69999999">
+       style="fill:#00ffff;fill-opacity:0.64999998">
       <path
-         style="fill:#eef2f5;fill-opacity:0.69999999;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#00ffff;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 130,145 h -5 c 0,3 2,5 5,5 z"
          id="path863-3"
-         sodipodi:nodetypes="cccc" />
+         sodipodi:nodetypes="cccc"
+         class="ColorScheme-Background" />
       <g
          id="g1009"
-         style="fill:#eef2f5;fill-opacity:0.69999999" />
+         style="fill:#00ffff;fill-opacity:0.64999998" />
     </g>
     <g
        id="bottomright"
        inkscape:label="#bottomright"
        transform="matrix(2,0,0,2,-196.00002,-164.00002)"
-       style="fill:#eef2f5;fill-opacity:0.69999999">
+       style="fill:#00ffff;fill-opacity:0.64999998">
       <path
-         style="fill:#eef2f5;fill-opacity:0.69999999;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#00ffff;fill-opacity:0.64999998;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 163,154.5 v 5 c 3,0 5,-2 5,-5 z"
          id="path863-6"
-         sodipodi:nodetypes="cccc" />
+         sodipodi:nodetypes="cccc"
+         class="ColorScheme-Background" />
     </g>
     <g
        id="top"
        inkscape:label="#top"
        transform="matrix(0.66433525,0,0,2,33.636388,-130.00002)"
-       style="opacity:1;fill:#eef2f5;fill-opacity:0.69999999">
+       style="opacity:1;fill:#00ffff;fill-opacity:0.64999998">
       <g
          id="g997"
-         style="fill:#eef2f5;fill-opacity:0.69999999">
+         style="fill:#00ffff;fill-opacity:0.64999998">
         <g
            id="g1003"
-           style="fill:#eef2f5;fill-opacity:0.69999999">
+           style="fill:#00ffff;fill-opacity:0.64999998">
           <rect
-             style="opacity:1;fill:#eef2f5;fill-opacity:0.69999999"
+             style="opacity:1;fill:#00ffff;fill-opacity:0.64999998"
              id="rect847"
              width="22.578926"
              height="5.0000057"
              x="122.47368"
-             y="125" />
+             y="125"
+             class="ColorScheme-Background" />
         </g>
       </g>
     </g>
@@ -391,14 +409,15 @@
        id="right"
        inkscape:label="#right"
        transform="matrix(2,0,0,1,-160.00002,-2.1e-5)"
-       style="fill-opacity:0.69999999;fill:#eef2f5">
+       style="fill-opacity:0.64999998;fill:#00ffff">
       <rect
-         style="fill:#eef2f5;fill-opacity:0.69999999"
+         style="fill:#00ffff;fill-opacity:0.64999998"
          id="rect851"
          width="5"
          height="15"
          x="145"
-         y="130" />
+         y="130"
+         class="ColorScheme-Background" />
     </g>
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.26491"
@@ -412,14 +431,15 @@
        id="bottom"
        inkscape:label="#bottom"
        transform="matrix(0.99999994,0,0,2,-15.000022,-145.00002)"
-       style="fill:#eef2f5;fill-opacity:0.69999999">
+       style="fill:#00ffff;fill-opacity:0.64999998">
       <rect
-         style="fill:#eef2f5;fill-opacity:0.69999999"
+         style="fill:#00ffff;fill-opacity:0.64999998"
          id="rect833"
          width="15"
          height="5"
          x="130"
-         y="145" />
+         y="145"
+         class="ColorScheme-Background" />
     </g>
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.2649"
@@ -433,17 +453,18 @@
        id="left"
        inkscape:label="#left"
        transform="matrix(2,0,0,1,-145.00003,-1.8e-5)"
-       style="fill-opacity:0.69999999;fill:#eef2f5">
+       style="fill-opacity:0.64999998;fill:#00ffff">
       <g
          id="g1006"
-         style="fill-opacity:0.69999999;fill:#eef2f5">
+         style="fill-opacity:0.64999998;fill:#00ffff">
         <rect
-           style="fill:#eef2f5;fill-opacity:0.69999999"
+           style="fill:#00ffff;fill-opacity:0.64999998"
            id="rect837"
            width="5"
            height="15"
            x="125"
-           y="130" />
+           y="130"
+           class="ColorScheme-Background" />
       </g>
     </g>
     <rect
@@ -481,7 +502,7 @@
     <g
        id="mask-left"
        inkscape:label="#mask-left"
-       transform="matrix(2,0,0,1,-55.000036,-2e-5)"
+       transform="matrix(2,0,0,1,-55.000053,-9e-6)"
        style="fill:#000000;stroke:none">
       <g
          id="g1006-7"
@@ -702,7 +723,7 @@
        style="opacity:1" />
     <rect
        style="fill:#00ffff;fill-opacity:0.8;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="AAA-hint-apply-color-scheme"
+       id="hint-apply-color-scheme"
        width="2"
        height="2"
        x="96.999947"

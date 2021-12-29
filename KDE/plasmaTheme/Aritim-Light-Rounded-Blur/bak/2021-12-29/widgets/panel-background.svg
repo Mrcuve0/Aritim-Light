@@ -290,7 +290,7 @@
      id="layer1"
      transform="translate(-95,-98.99999)">
     <rect
-       style="fill:#eef2f5;fill-opacity:0.69803923;fill-rule:nonzero;stroke-width:0.333333"
+       style="fill:#00ffff;fill-opacity:0.69999999;fill-rule:nonzero;stroke-width:0.333333"
        id="center"
        width="15.000008"
        height="14.999993"
@@ -301,9 +301,9 @@
        id="topright"
        inkscape:label="#topright"
        transform="matrix(2,0,0,2,-160.00002,-130.00002)"
-       style="opacity:1;fill:#eef2f5;fill-opacity:0.69803923">
+       style="opacity:1;fill:#00ffff;fill-opacity:0.69999999">
       <path
-         style="opacity:1;fill:#eef2f5;fill-opacity:0.69803923;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#00ffff;fill-opacity:0.69999999;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 145,130 h 5 c 0,-3 -2,-5 -5,-5 z"
          id="path863-6-7"
          sodipodi:nodetypes="cccc" />
@@ -312,9 +312,9 @@
        id="topleft"
        inkscape:label="#topleft"
        transform="matrix(2,0,0,2,-145.00003,-130.00002)"
-       style="opacity:1;fill:#eef2f5;fill-opacity:0.69803923">
+       style="opacity:1;fill:#00ffff;fill-opacity:0.69999999">
       <path
-         style="opacity:1;fill:#eef2f5;fill-opacity:0.69803923;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#00ffff;fill-opacity:0.69999999;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 129.99999,130.00001 130,125 c -3,0 -5,2 -5,5 z"
          id="path863"
          sodipodi:nodetypes="cccc" />
@@ -323,23 +323,23 @@
        id="bottomleft"
        inkscape:label="#bottomleft"
        transform="matrix(2,0,0,2,-145.00002,-145.00002)"
-       style="fill:#eef2f5;fill-opacity:0.69803923">
+       style="fill:#00ffff;fill-opacity:0.69999999">
       <path
-         style="fill:#eef2f5;fill-opacity:0.69803923;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#00ffff;fill-opacity:0.69999999;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 130,145 h -5 c 0,3 2,5 5,5 z"
          id="path863-3"
          sodipodi:nodetypes="cccc" />
       <g
          id="g1009"
-         style="fill:#eef2f5;fill-opacity:0.69803923" />
+         style="fill:#00ffff;fill-opacity:0.69999999" />
     </g>
     <g
        id="bottomright"
        inkscape:label="#bottomright"
        transform="matrix(2,0,0,2,-196.00002,-164.00002)"
-       style="fill:#eef2f5;fill-opacity:0.69803923">
+       style="fill:#00ffff;fill-opacity:0.69999999">
       <path
-         style="fill:#eef2f5;fill-opacity:0.69803923;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#00ffff;fill-opacity:0.69999999;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 163,154.5 v 5 c 3,0 5,-2 5,-5 z"
          id="path863-6"
          sodipodi:nodetypes="cccc" />
@@ -348,15 +348,15 @@
        id="top"
        inkscape:label="#top"
        transform="matrix(0.66433525,0,0,2,33.636388,-130.00002)"
-       style="opacity:1;fill:#eef2f5;fill-opacity:0.69803923">
+       style="opacity:1;fill:#00ffff;fill-opacity:0.69999999">
       <g
          id="g997"
-         style="fill:#eef2f5;fill-opacity:0.69803923">
+         style="fill:#00ffff;fill-opacity:0.69999999">
         <g
            id="g1003"
-           style="fill:#eef2f5;fill-opacity:0.69803923">
+           style="fill:#00ffff;fill-opacity:0.69999999">
           <rect
-             style="opacity:1;fill:#eef2f5;fill-opacity:0.69803923"
+             style="opacity:1;fill:#00ffff;fill-opacity:0.69999999"
              id="rect847"
              width="22.578926"
              height="5.0000057"
@@ -377,9 +377,9 @@
        id="right"
        inkscape:label="#right"
        transform="matrix(2,0,0,1,-160.00002,-2.1e-5)"
-       style="fill-opacity:0.69803923;fill:#eef2f5">
+       style="fill-opacity:0.69999999;fill:#00ffff">
       <rect
-         style="fill:#eef2f5;fill-opacity:0.69803923"
+         style="fill:#00ffff;fill-opacity:0.69999999"
          id="rect851"
          width="5.0000167"
          height="14.999988"
@@ -398,9 +398,9 @@
        id="bottom"
        inkscape:label="#bottom"
        transform="matrix(0.99999994,0,0,2,-15.000022,-145.00002)"
-       style="fill:#eef2f5;fill-opacity:0.69803923">
+       style="fill:#00ffff;fill-opacity:0.69999999">
       <rect
-         style="fill:#eef2f5;fill-opacity:0.69803923"
+         style="fill:#00ffff;fill-opacity:0.69999999"
          id="rect833"
          width="15"
          height="5"
@@ -419,12 +419,12 @@
        id="left"
        inkscape:label="#left"
        transform="matrix(2,0,0,1,-145.00003,-1.8e-5)"
-       style="fill-opacity:0.69803923;fill:#eef2f5">
+       style="fill-opacity:0.69999999;fill:#00ffff">
       <g
          id="g1006"
-         style="fill-opacity:0.69803923;fill:#eef2f5">
+         style="fill-opacity:0.69999999;fill:#00ffff">
         <rect
-           style="fill:#eef2f5;fill-opacity:0.69803923"
+           style="fill:#00ffff;fill-opacity:0.69999999"
            id="rect837"
            width="5.0000114"
            height="14.999993"
@@ -728,7 +728,7 @@
     </g>
     <rect
        style="fill:#00ffff;fill-opacity:0.8;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="AAA-hint-apply-color-scheme"
+       id="hint-apply-color-scheme"
        width="2"
        height="2"
        x="98.999947"
