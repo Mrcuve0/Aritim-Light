@@ -1,7 +1,7 @@
 # Aritim-Light-Aurorae-Theme
 
 ## The Aurorae Theme used in Aritim-Light Theme!
-[![DevelopmentStatus](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)](https://img.shields.io/badge/Development-Ongoing-brightgreen.svg)
+[![DevelopmentStatus](https://img.shields.io/badge/Development-Stopped-red.svg)](https://img.shields.io/badge/Development-Stopped-red.svg)
 [![HitCount](http://hits.dwyl.io/Mrcuve0/Aritim-Light-Aurorae-Theme.svg)](http://hits.dwyl.io/Mrcuve0/Aritim-Light-Aurorae-Theme)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
